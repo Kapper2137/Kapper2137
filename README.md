@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Kacper</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapper2137&label=Profile%20views&color=0e75b6&style=flat" alt="kapper2137" /> </p>
+
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -17,3 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapper2137&show_icons=true&locale=en" alt="kapper2137" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapper2137&" alt="kapper2137" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapper2137&label=Profile%20views&color=0e75b6&style=flat" alt="kapper2137" /> </p>
