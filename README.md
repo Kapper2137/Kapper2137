@@ -4,7 +4,8 @@
 
 
 - 🌱 I’m currently learning **JavaScript**
-
+- In my free time I really enjoy working out outside on bars, I also like swimming. 
+- My calisthenics goal is to do a human flag. 
 <p align="left">
 </p>
 
